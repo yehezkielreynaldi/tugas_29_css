@@ -1,0 +1,15 @@
+body{
+    background-color: #dadada !important;
+}
+
+.ui.stacked.segments{
+    background-color: white;
+    width: 410px;
+    height: auto; 
+    margin: 0 auto;
+
+}
+
+.ui.middle.aligned.center.aligned.grid{
+    margin-top: 200px;
+}
